@@ -7,3 +7,4 @@ Your branch is based on 'origin/master', but the upstream is gone.
 nothing to commit, working tree clean
 thay doi 23h30
 # INT_ltnc
+# INT_ltnc
